@@ -1,0 +1,2 @@
+--select count (*) as actor_count from actors ;
+--INSERT INTO actors (first_name, last_name) VALUES ('Nathan', 'Gideon');
