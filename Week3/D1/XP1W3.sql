@@ -5,7 +5,7 @@
 --	items varchar(20)
 --);
 
---insert into itms_list (price, items)
+--insert into items_list (price, items)
 
 --values
 --(100,'small desk'),
